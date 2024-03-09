@@ -1,0 +1,1 @@
+This project has the aim of determining the effect of different promotion types on the sales of a new product. Ultimately, we were interested in finding the best promotion for this product to optimize sales.
